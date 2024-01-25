@@ -15,5 +15,5 @@ Challenge: Included with this challenge is a set of 150 SERPs parsed into JSON. 
 
 
 ## Results
-All analysis, figures, conclusions can be found in cluster_analysis.ipynb
-The serps with attached cluster_id is under data/serp_cluster_results.csv
+All analysis, figures, conclusions can be found in cluster_analysis.ipynb.
+The serps with attached cluster_ids are under data/serp_cluster_results.csv
