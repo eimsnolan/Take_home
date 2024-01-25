@@ -1,0 +1,28 @@
+[tool.poetry]
+name = "moz"
+version = "0.1.0"
+description = "moz take home task"
+authors = ["eimsnolan <136023958+eimsnolan@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+jsonlines = "4.0.0"
+ipykernel = "6.29.0"
+pandas = "2.2.0"
+matplotlib = "3.8.2"
+seaborn = "0.13.1"
+voyageai = "0.1.7"
+python-dotenv = "1.0.1"
+pyarrow = "15.0.0"
+tokenizers = "0.15.1"
+scikit-learn = "1.4.0"
+isort = "5.13.2"
+black = "23.12.1"
+umap-learn = "0.5.5"
+
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

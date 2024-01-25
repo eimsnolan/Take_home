@@ -1,0 +1,15 @@
+# Create the environment
+# conda env create -f environment.yaml
+# conda env update -f environment.yaml --prune
+
+# Activate the environment
+# conda activate moz_env
+
+name: moz_env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - poetry=1.7.1
